@@ -1,0 +1,7 @@
+{
+  "name": "AI Water Optimizer - Thakur College",
+  "description": "A production-ready water management dashboard featuring real-time synthetic data generation, ML model training simulation (Random Forest), and AI-driven conservation insights using Gemini 3.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
